@@ -6,4 +6,4 @@
 - 12 V source power 
 - 2 Servos (SG-90 & MG-996R)
 - 3D printing for gripper 
-![Car Design](Car/Car_sketch.png)
+![Car Design](Car_sketch.png)
