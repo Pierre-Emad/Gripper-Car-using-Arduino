@@ -18,4 +18,17 @@ We made this project for microprossecor course in our college
 - Arduino Uno
 - 2 Joystick modules
 - HC-05 bluetooth modules
- 
+
+
+
+
+## Authors
+
+- [@Pierre Emad](https://github.com/Pierre-Emad)
+- [@Saad Samir](https://github.com/SaadSamir7)
+- [@Salah Swefy](https://github.com/SalahMSwefy)
+- [@Youssef Megahed](https://github.com/Bor3y9)
+- [@Hassan Sherif](https://github.com/hassan17996)
+- [@Mohamed Khalil](https://github.com/Bigkhil)
+- [@Mohamed Fouad](https://www.linkedin.com/in/mohamed-fouad-a88357219/)
+- [@Youssef Salah](https://www.linkedin.com/in/youssef-salah-484345233/)
