@@ -1,26 +1,22 @@
 # Gripper_Car
 
 ## Overview
-Robot car with gripper controled by joysticks which conected by bluetooth  
-We made this project for microprossecor course in our college
+Robot car with gripper controlled by joysticks which are connected by bluetooth.
+We made this project for the microprocessor course in our college.
 
-## Components
-### Car components
-- Arduino Uno
-- Car body and 4 DC motors
-- Adafruit Arduino Motor Shield 4 Channel L293D H-Bridge
-- HC-05 bluetooth modules
-- 12 V source power 
-- 2 Servos (SG-90 & MG-996R)
-- 3D printing for gripper 
+## functionality
+The main goal of this project was to connect 2 bluetooth modules together in Master-Slave connection type in order to send commands from the controlling device (the joystick) to the car.
+The joystick unit is used as the master device while the car unit is used as the salve device.
 
-### Joystick components
-- Arduino Uno
-- 2 Joystick modules
-- HC-05 bluetooth modules
+## Features
+- Wireless control using bluetooth.
+- Easy to use interface through the 2 joysticks.
+- Tilting gripper which allows precise control.
 
-
-
+## Resources
+- [Gripper 3d printing](https://www.instructables.com/Arduino-Robotic-Arm-Controlled-by-Touch-Interface/)
+- [AT mode for HC-05 bluetooth modules](https://www.instructables.com/AT-command-mode-of-HC-05-Bluetooth-module/)
+- [Motor Driver datasheet](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-motor-shield.pdf)
 
 ## Authors
 
