@@ -1,12 +1,12 @@
 # Bluetooth Controlled Gripper Car
 
 ## Overview
-Robot car with gripper controlled by joysticks which are connected by bluetooth.
+Robot car with a gripper controlled by joysticks through bluetooth connection.
 We made this project for the microprocessor course in our college.
 
 ## Functionality
 The main goal of this project was to connect 2 bluetooth modules together in Master-Slave connection type in order to send commands from the controlling device (the joystick) to the car.
-The joystick unit is used as the master device while the car unit is used as the salve device.
+The joystick unit is used as the master device while the car unit is used as the slave device.
 
 ## Features
 - Wireless control using bluetooth.
